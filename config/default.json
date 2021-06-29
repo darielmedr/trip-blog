@@ -1,0 +1,12 @@
+{
+    "server": {
+        "port": 3000,
+        "host": "localhost",
+        "dbUri": "mongodb://localhost:27017/trip-blog"
+    },
+    "jwt": {
+        "accessTokenTtl": "15m",
+        "refreshTokenTtl": "3d",
+        "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWQ3otT1vL/8HJ\neXibqEmnCIItnSViC7r/9AAjz67RBioygJv3allu5gPkCZO+q9a4pG0oU/wjpIY/\nEAU5yc+cQ8i808JOC/1VH4eXSUfuWSMeFWKXFaH8ftH0BV8thlrGYbzNbbjqTS3p\n0Z/7DkIoCZm0/T1gwXB6TPLPkOYEpmHuj8PWJRs2AQUQVj1Zgv6ZSeVEx3VoJn/U\nIYLRO8mFI2SCDg9Kbsu4tdJ9pFusfK5UI+/ehsoIY3lJ8wPOSzaZStScFnEJCqQm\nROyvkGvI5VqOtTtkzICoWJ+NvpYrpvg7UNfDcrN5GrcIQjyK3bt3wkeSoPAC99ar\nJiFrxwWRAgMBAAECggEAAKYPbGEmkrb1WZ7kNKXRaultkxqrJeUfkZ8hHgZ1k9JB\n6IsSFqDB/JQnyaT58I2HhS9eh5lJ4hyBy4Vl7wsuPII1Zw1HTjTH4JrHfXwelZ/o\nYnxHUJgnuseQX/bi+OHBhBA5c1iT1F0bbjeOXX7WWHERgGIZ0PsHdtuyA6U1klO6\nL2SjbI5WpfiXnf+0FLBbZBuXAdeJwjm27FPDojacEoPbz/rG3oMlFmbGq8n8Mk/C\nf1m+kKNgrDQJZtIbcVZlKtJ31/DFsbogVKHb4EXyxAQE7I3b0uHPVOENgAgFSDr3\njmBM5RBJwPtFbcD4azGJrQYakqlG7E1q/VBQkehU3QKBgQDSn7Mgzek+GzF+0V/s\nZ9Sxg5PZkoVojgxWr9tUQnqKFePyHRH8Br21IWgCQ52gfkjt61ABUQjocwPKWbr+\nb9cf1v5/GUkNMaP4TbPGekK2Tfq98htXocMewaAVlFnOOzvGrCIc1o8e+0WDgD15\n2/rT8WTwq5nuqOPzPK7eAqWFJQKBgQC2osvpXCX2T8DkMY00doZ9htX9ISNE8OYS\ne3/AVfsgZ9hfnTtAK5/019LDH2r1H+otpZyV6EGAihmJhAEweauoeJSSq/GwTX8z\nfejWdgJYFf4yOWn3mgvUC1JS2juNbIk/Ritkta2Hbb+3d6vtl1LsciEUJ8kFgK2Z\n7aADCjWw/QKBgDbIXvkLVb1XqVoI72A36XR6erw+hgCZ4c+yUePqnqDH7NAOi5z3\ny+QO2lSsbZVPA30OlXKiNyTutW+uQxrm0Bdx/iPk2cFaxgFRhI79QdjVE4DQNhhm\n9K9NQWwbd/hSI8wa/Yxuqi8uv/fiJRtLAkSaJt0KZTFUMGYVxI3uNksZAoGBALBP\nWrCuH4u4FEt2to01+sGFgGD8M5MjR8gB5yMjHep7tXsgS4m4U5PHIhTx6Iw4whZM\n8WwaKdnP97U0dP16B8f8l9k8GncLaUepPjSC+eJVYO7VVEIOOWr7fv6y5JizdY9a\nyxtO8/VwcorIAXa9BfVyfBJ8Eei4/15A8p7cpVZ1AoGBAKr8SZzm6lepe3f88Ctf\nELWMmdBIKByTmvG6z/IqhtXVfBVKa5Gsqr70QpiMnGSic1HfK7s/es4tIzlgxdLm\nlsLl7QoIrVseUn9xG3HI+1ad0AghlBw8t3KJ1AePhal4WODHoZVd1FRmPev6cMjI\nKLVuGyGNi15rDjkawg3XzKRm\n-----END PRIVATE KEY-----"
+    }
+}
